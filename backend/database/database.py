@@ -4,6 +4,8 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
 
 from backend.core.config import settings
+from backend.database.base import Base
+from backend.models import Application, Category, Company, Job, Progress
 
 engine = create_engine(
     url=settings.database_url,
@@ -23,3 +25,6 @@ def get_db() -> Generator[int, None, None]:
         yield db
     except:
         db.close()
+
+def init_db() -> None:
+    Base.metadata.create_all(bind=engine)
