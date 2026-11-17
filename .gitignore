@@ -2,8 +2,10 @@ venv/
 env/
 __pycache__/
 data/
+backend/seed/.last_export
 
 *.env
 *.txt
+!requirements.txt
 *.db
 *.csv
