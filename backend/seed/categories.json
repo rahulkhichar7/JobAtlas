@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Other",
+    "description": "Consulting, product and analyst roles"
+  },
+  {
+    "name": "Quant",
+    "description": "Quant research, trading and quant developer roles"
+  },
+  {
+    "name": "Quant T1",
+    "description": "Top-tier quant research, trading and quant developer roles with the highest compensation and selectivity"
+  },
+  {
+    "name": "Quant T2",
+    "description": "Strong quant research, trading and quant developer roles with high compensation and selectivity"
+  },
+  {
+    "name": "Quant T3",
+    "description": "Good quant research, trading and quant developer roles with competitive compensation and moderate selectivity"
+  },
+  {
+    "name": "Software",
+    "description": "Software engineering, backend, ML and infra roles"
+  },
+  {
+    "name": "Software T1",
+    "description": "Top-tier software engineering, backend, ML and infrastructure roles with the highest compensation and selectivity"
+  },
+  {
+    "name": "Software T2",
+    "description": "Strong software engineering, backend, ML and infrastructure roles with high compensation and selectivity"
+  },
+  {
+    "name": "Software T3",
+    "description": "Good software engineering, backend, ML and infrastructure roles with competitive compensation and moderate selectivity"
+  }
+]

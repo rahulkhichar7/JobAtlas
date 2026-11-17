@@ -1,0 +1,18 @@
+[
+  {
+    "name": "APT Portfolio",
+    "category": "Quant T1",
+    "website": "https://www.aptportfolio.com/career/index.html",
+    "location": "New Delhi, India; New Delhi/NCR",
+    "description": "Delhi-based quantitative proprietary trading firm (APT Research Pvt. Ltd.). Small, research-led team running systematic strategies; very selective campus hiring of QRs and developers.",
+    "notes": ""
+  },
+  {
+    "name": "Citadel",
+    "category": "Quant T1",
+    "website": "https://www.citadel.com/careers",
+    "location": "Chicago, USA (HQ now Miami); Miami, New York, Chicago, Greenwich, London, Paris, Hong Kong, Singapore (no India investment office)",
+    "description": "Multi-strategy hedge fund (Ken Griffin) running Global Quantitative Strategies, Equities, Fixed Income & Macro and Commodities. Quant roles sit in GQS and in central quant/risk teams. Freshers join as Quantitative Research Analyst, Quant Researcher (PhD), or Software Engineer. Distinct from Citadel Securities.",
+    "notes": ""
+  }
+]
